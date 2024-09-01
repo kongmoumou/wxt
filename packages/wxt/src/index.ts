@@ -1,4 +1,5 @@
 /**
+ * test
  * @module wxt
  */
 export * from './core';
